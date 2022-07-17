@@ -1,0 +1,126 @@
+{
+  "Account": {
+    "Auth Key": "xxxxxxx",
+    "Currency": "xlm",
+    "Auto Proxy": "OFF"
+  },
+  "Target Profit": "10000000000000000",
+  "Target Win": "1000000000000000000",
+  "Lose Target": "0",
+  "Save Profit": "0",
+  "MaxLS": "300000",
+  "Reset Seed": "250",
+  "Show Price": "OFF",
+  "Play Game": "dice",
+  "Betset": [
+    {
+      "Name Bet Set": "00 - @BEDUCODE SETTING",
+      "Base Bet": "0.00000001",
+      "Chance": "98",
+      "Random Chance": {
+        "Toggle": "ON",
+        "Min": "95",
+        "Max": "98"
+      },
+      "Bet": {
+        "Bet": "Hi",
+        "Hi / Low": {
+          "Toggle": "OFF",
+          "If Lose": "1",
+          "If Win": "1"
+        }
+      },
+      "Mode1": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "SaveProfit": "0",
+        "Profit": "0.00000001",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "0.5",
+          "LCMax": "4"
+        }
+      },
+      "Mode2": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000005",
+        "Profit": "0.00000001",
+        "GateWay": "50",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "1",
+          "LCMax": "2"
+        }
+      },
+      "Mode3": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Profit": "0.00000001",
+        "IfLose": "1.4",
+        "IfWin": "1",
+        "Reset If Profit": "1",
+        "Multi Win": {
+          "Toggle": "ON",
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "Toggle": "ON",
+          "LCMin": "15",
+          "LCMax": "47"
+        }
+      },
+      "Mode4": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Profit": "0.00000001",
+        "Gateway": "25",
+        "Passrol": "25",
+        "Multipler": "1.012",
+        "Limitlose": "5",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "0.5",
+          "LCMax": "1"
+        }
+      },
+      "Mode5": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Profit": "0.00000001",
+        "SaveProfit": "0",
+        "Gateway": "15",
+        "Passrol": "15",
+        "Limitlose": "100",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "6",
+          "LCMax": "9"
+        }
+      },
+      "Mode6": {
+        "Toggle": "ON",
+        "Profit": "0.00000001",
+        "Payout": "1",
+        "DefaultPay": "1",
+        "AddPayLS": "1",
+        "Maxpay": "100",
+        "Multipay": "5",
+        "Multibet": "1.25",
+        "ValPay": "5"
+      }
+    }
+  ]
+}
