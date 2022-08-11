@@ -77,20 +77,20 @@
         }
       },
       "Mode4": {
-        "Toggle": "OFF",
+        "Toggle": "ON",
         "Prebet": "0.00000001",
         "Profit": "0.00000001",
-        "Gateway": "25",
-        "Passrol": "25",
-        "Multipler": "1.012",
+        "Gateway": "35",
+        "Passrol": "30",
+        "Multipler": "1.056",
         "Limitlose": "5",
         "Multi Win": {
           "LCMin": "49",
           "LCMax": "49"
         },
         "Multi Lose": {
-          "LCMin": "0.5",
-          "LCMax": "1"
+          "LCMin": "4.9",
+          "LCMax": "5"
         }
       },
       "Mode5": {
@@ -111,7 +111,7 @@
         }
       },
       "Mode6": {
-        "Toggle": "ON",
+        "Toggle": "OFF",
         "Profit": "0.00000001",
         "Payout": "1",
         "DefaultPay": "1",
